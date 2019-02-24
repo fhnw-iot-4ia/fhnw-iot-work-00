@@ -19,7 +19,7 @@ For slides and example code, see [lesson 0](../../../fhnw-iot/blob/master/00/REA
 On your computer
 * In the hands-on repository [fork for your class](../../network/members), in README.md, click the _GitHub Classroom link_.
 * Once you accept the assessment, you get a personal, private repository URL for your _USER_NAME_:<pre>
-http://github.com/fhnw-syspr-CLASS/fhnw-syspr-work-00-USER_NAME</pre>
+http://github.com/fhnw-iot-CLASS/fhnw-iot-work-00-USER_NAME</pre>
 
 On your computer or Raspberry Pi
 * Clone the repository<pre>
