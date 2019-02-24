@@ -3,7 +3,7 @@
 For slides and example code, see [lesson 0](../../../fhnw-iot/blob/master/00/README.md)
 
 > *Note: Do not work on this repository right away.*<br/>
-> *[Check existing forks to find the specific repository for your class.](../../network/members)*
+> *[Create your personal copy by clicking this GitHub Classroom link](https://classroom.github.com/a/TODO).*
 
 ### a) Git and GitHub, 5'
 * Check the forks of this repository to find the _Classroom_ link.
